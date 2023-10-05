@@ -1,4 +1,6 @@
-
+/CompileEPK.sh
+/Gradlew teavmc
+/MakeOfflineDownload.sh
 # DragonX
 
 A Hack Client For EaglercraftX 1.8.x
